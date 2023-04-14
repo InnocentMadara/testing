@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/testing/static/css/main.f8a3e9e1.css",
-    "main.js": "/testing/static/js/main.95c444f9.js",
+    "main.css": "/testing/static/css/main.ef7cd24f.css",
+    "main.js": "/testing/static/js/main.6b18970a.js",
     "static/media/Lato-Regular.ttf": "/testing/static/media/Lato-Regular.faacec1c82ca10ed3b76.ttf",
     "static/media/CrimsonText-Roman.ttf": "/testing/static/media/CrimsonText-Roman.378a7391c7dea08dd4bf.ttf",
     "static/media/InputMono-Regular.ttf": "/testing/static/media/InputMono-Regular.bb5d3c0ee1adb2b37c7c.ttf",
     "static/media/Jost-Medium.ttf": "/testing/static/media/Jost-Medium.49273d86e64ba1ff3a2c.ttf",
     "static/media/Nobel-Book.ttf": "/testing/static/media/Nobel-Book.8eb6e9a1fa14736a76f8.ttf",
+    "static/media/photo.jpg": "/testing/static/media/photo.2d64ed2a47cc2a87b084.jpg",
     "index.html": "/testing/index.html",
-    "main.f8a3e9e1.css.map": "/testing/static/css/main.f8a3e9e1.css.map",
-    "main.95c444f9.js.map": "/testing/static/js/main.95c444f9.js.map"
+    "main.ef7cd24f.css.map": "/testing/static/css/main.ef7cd24f.css.map",
+    "main.6b18970a.js.map": "/testing/static/js/main.6b18970a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8a3e9e1.css",
-    "static/js/main.95c444f9.js"
+    "static/css/main.ef7cd24f.css",
+    "static/js/main.6b18970a.js"
   ]
 }

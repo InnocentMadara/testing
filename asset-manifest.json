@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/testing/static/css/main.ef7cd24f.css",
-    "main.js": "/testing/static/js/main.6b18970a.js",
+    "main.css": "/testing/static/css/main.e4cd6468.css",
+    "main.js": "/testing/static/js/main.99a3285e.js",
     "static/media/Lato-Regular.ttf": "/testing/static/media/Lato-Regular.faacec1c82ca10ed3b76.ttf",
     "static/media/CrimsonText-Roman.ttf": "/testing/static/media/CrimsonText-Roman.378a7391c7dea08dd4bf.ttf",
     "static/media/InputMono-Regular.ttf": "/testing/static/media/InputMono-Regular.bb5d3c0ee1adb2b37c7c.ttf",
@@ -9,11 +9,11 @@
     "static/media/Nobel-Book.ttf": "/testing/static/media/Nobel-Book.8eb6e9a1fa14736a76f8.ttf",
     "static/media/photo.jpg": "/testing/static/media/photo.2d64ed2a47cc2a87b084.jpg",
     "index.html": "/testing/index.html",
-    "main.ef7cd24f.css.map": "/testing/static/css/main.ef7cd24f.css.map",
-    "main.6b18970a.js.map": "/testing/static/js/main.6b18970a.js.map"
+    "main.e4cd6468.css.map": "/testing/static/css/main.e4cd6468.css.map",
+    "main.99a3285e.js.map": "/testing/static/js/main.99a3285e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef7cd24f.css",
-    "static/js/main.6b18970a.js"
+    "static/css/main.e4cd6468.css",
+    "static/js/main.99a3285e.js"
   ]
 }

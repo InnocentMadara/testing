@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/testing/static/css/main.a2b8627c.css",
-    "main.js": "/testing/static/js/main.664a1597.js",
+    "main.css": "/testing/static/css/main.00787317.css",
+    "main.js": "/testing/static/js/main.97ad1cc7.js",
     "static/media/Lato-Regular.ttf": "/testing/static/media/Lato-Regular.faacec1c82ca10ed3b76.ttf",
     "static/media/CrimsonText-Roman.ttf": "/testing/static/media/CrimsonText-Roman.378a7391c7dea08dd4bf.ttf",
     "static/media/OpenSans-Regular.ttf": "/testing/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
@@ -12,11 +12,11 @@
     "static/media/Nobel-Book.ttf": "/testing/static/media/Nobel-Book.8eb6e9a1fa14736a76f8.ttf",
     "static/media/photo.jpg": "/testing/static/media/photo.2d64ed2a47cc2a87b084.jpg",
     "index.html": "/testing/index.html",
-    "main.a2b8627c.css.map": "/testing/static/css/main.a2b8627c.css.map",
-    "main.664a1597.js.map": "/testing/static/js/main.664a1597.js.map"
+    "main.00787317.css.map": "/testing/static/css/main.00787317.css.map",
+    "main.97ad1cc7.js.map": "/testing/static/js/main.97ad1cc7.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2b8627c.css",
-    "static/js/main.664a1597.js"
+    "static/css/main.00787317.css",
+    "static/js/main.97ad1cc7.js"
   ]
 }

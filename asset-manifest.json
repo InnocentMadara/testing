@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/testing/static/css/main.17e9fa3b.css",
+    "main.css": "/testing/static/css/main.a517aa42.css",
     "main.js": "/testing/static/js/main.d1dacef4.js",
     "static/media/Lato-Regular.ttf": "/testing/static/media/Lato-Regular.faacec1c82ca10ed3b76.ttf",
     "static/media/CrimsonText-Roman.ttf": "/testing/static/media/CrimsonText-Roman.378a7391c7dea08dd4bf.ttf",
@@ -12,11 +12,11 @@
     "static/media/Nobel-Book.ttf": "/testing/static/media/Nobel-Book.8eb6e9a1fa14736a76f8.ttf",
     "static/media/photo.jpg": "/testing/static/media/photo.2d64ed2a47cc2a87b084.jpg",
     "index.html": "/testing/index.html",
-    "main.17e9fa3b.css.map": "/testing/static/css/main.17e9fa3b.css.map",
+    "main.a517aa42.css.map": "/testing/static/css/main.a517aa42.css.map",
     "main.d1dacef4.js.map": "/testing/static/js/main.d1dacef4.js.map"
   },
   "entrypoints": [
-    "static/css/main.17e9fa3b.css",
+    "static/css/main.a517aa42.css",
     "static/js/main.d1dacef4.js"
   ]
 }

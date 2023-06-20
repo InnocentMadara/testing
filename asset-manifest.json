@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/testing/static/css/main.1057a4a0.css",
-    "main.js": "/testing/static/js/main.6d3ce71c.js",
+    "main.css": "/testing/static/css/main.fd1231b3.css",
+    "main.js": "/testing/static/js/main.33074b25.js",
     "static/media/Lato-Regular.ttf": "/testing/static/media/Lato-Regular.faacec1c82ca10ed3b76.ttf",
     "static/media/CrimsonText-Roman.ttf": "/testing/static/media/CrimsonText-Roman.378a7391c7dea08dd4bf.ttf",
     "static/media/OpenSans-Regular.ttf": "/testing/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
@@ -11,13 +11,12 @@
     "static/media/Jost-Medium.ttf": "/testing/static/media/Jost-Medium.49273d86e64ba1ff3a2c.ttf",
     "static/media/MissingImage.png": "/testing/static/media/MissingImage.3b8fd210f8576f260b01.png",
     "static/media/Nobel-Book.ttf": "/testing/static/media/Nobel-Book.8eb6e9a1fa14736a76f8.ttf",
-    "static/media/photo.jpg": "/testing/static/media/photo.2d64ed2a47cc2a87b084.jpg",
     "index.html": "/testing/index.html",
-    "main.1057a4a0.css.map": "/testing/static/css/main.1057a4a0.css.map",
-    "main.6d3ce71c.js.map": "/testing/static/js/main.6d3ce71c.js.map"
+    "main.fd1231b3.css.map": "/testing/static/css/main.fd1231b3.css.map",
+    "main.33074b25.js.map": "/testing/static/js/main.33074b25.js.map"
   },
   "entrypoints": [
-    "static/css/main.1057a4a0.css",
-    "static/js/main.6d3ce71c.js"
+    "static/css/main.fd1231b3.css",
+    "static/js/main.33074b25.js"
   ]
 }
